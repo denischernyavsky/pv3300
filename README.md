@@ -2,4 +2,4 @@
 
 Compiled version of Песнь Возрождения 3300 / Pesn' Vozrojdenia 3300 / Song of Revival 3300
 
-To view the songbook [click here](link)
+To view the songbook [click here](http://pv3300.com/)
